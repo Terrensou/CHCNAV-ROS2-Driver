@@ -9,3 +9,11 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+build
+install
+.vscode
+CGI610_node
+log
+src/test.cpp
+src/serial/
+cmake-build-debug
